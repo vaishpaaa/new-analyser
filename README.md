@@ -43,3 +43,7 @@ Usage
 2. Enter the URL of the news article you want to summarize
 3. Click the "Summarize" button
 4. View the summary, sentiment analysis, and other article details
+   
+Author: vaishnav muriki
+Email: vaishpaa@gmail.com
+
